@@ -20,16 +20,20 @@ Tools strength:
 And the thing I had really missed was to be patience to waint until accessing at least SMD specialized iron.
 
 **Here is manufactured PCB:**
-![IMG_20250624_083752](https://github.com/user-attachments/assets/8e78c9e2-b2cd-4b41-af41-df1265cf875f)
-![IMG_20250624_113647](https://github.com/user-attachments/assets/315ea4e8-9e94-4dab-bcd9-b8652218518a)
+![IMG_20250624_083752](https://github.com/user-attachments/assets/3fd29ae7-df1e-40a6-a53c-563fe9e2a456)
+![IMG_20250624_113647](https://github.com/user-attachments/assets/d582aef8-2aa4-4ab6-8d26-b90def981c93)
+
 
 **Prepaird workbench:**
-![IMG_20250905_204330](https://github.com/user-attachments/assets/fe51be2c-062c-4b2a-aa13-b24c9f3f2ecb)
+![IMG_20250905_204330](https://github.com/user-attachments/assets/4545868d-6ec3-41d6-a11e-6ee639449148)
+
 
 **First try success:**
-![IMG_20250905_214846](https://github.com/user-attachments/assets/f469aa5f-2dd0-4288-9fab-4b31b325d452)
+![IMG_20250905_214846](https://github.com/user-attachments/assets/29e78a62-bbeb-437d-bf5c-12d3b56ae845)
+
 **but the secound not:**
-![IMG_20250905_232118](https://github.com/user-attachments/assets/2f8507a4-beaa-4d74-8245-24f91b3cd3ac)
+![IMG_20250905_232118](https://github.com/user-attachments/assets/27b2e5fb-d540-406e-90f0-22d07de4d401)
+
 I had placed tip of my bulky iron beneath the IC and the resin of PCB burnd!! Though I've been dissapointed. I told OK. I will make the secound PCB with success.
 The secound PCB had inherent wrong. It missed one track in sensitive area, Under amplifier. :(
 ![IMG_20250906_100344](https://github.com/user-attachments/assets/6d7473c9-5858-4d10-9cb3-789918a21652)
