@@ -29,7 +29,8 @@ And the thing I had really missed was to be patience to waint until accessing at
 
 
 **First try success:**
-![IMG_20250905_214846](https://github.com/user-attachments/assets/29e78a62-bbeb-437d-bf5c-12d3b56ae845)
+![IMG_20250905_214846](https://github.com/user-attachments/assets/303cb038-166b-42fc-a3e8-f6b6cfd96043)
+
 
 **but the secound not:**
 ![IMG_20250905_232118](https://github.com/user-attachments/assets/27b2e5fb-d540-406e-90f0-22d07de4d401)
