@@ -13,8 +13,8 @@ This compact design chosen to minimize distortion in GPS RF signal.
 
 **PCB Weakness:**
   
-+ 0.5mm pitch footprint which is small for handsoldering
-+ Amplifier package does not have edge lead tail to make you certain about solder connectivity
++ 0.5mm pitch footprint is small for handsoldering
++ Amplifier package does not have edge lead tail, to make you certain about solder connectivity
 
 But other than foot print and devices package chosen, tools are extremely important:
 
