@@ -6,13 +6,16 @@ I've made GPS amplifier for hobby time, it failed. I've learned what I should no
 + Simple
 + High gain
 + Extremely compact design
-+ 0.25mm PCB thickness chosen to decrease track and match them to RF amps small footprint which also causes them to be more stable because of less leakage
++ 0.25mm PCB thickness chosen to decrease track and match them to RF amps
++ small footprint which also causes them to be more stable because of less leakage
+
 This compact design chosen to minimize distortion in GPS RF signal.
 
 **PCB Weakness:**
   
 + 0.5mm pitch footprint which is small for handsoldering
 + Amplifier package does not have edge lead tail to make you certain about solder connectivity
+
 But other than foot print and devices package chosen, tools are extremely important:
 
 **Tools weakness:**
@@ -25,6 +28,7 @@ But other than foot print and devices package chosen, tools are extremely import
   
 + Precise tweezer
 + Good lenz for zooming
+
 And the thing I had really missed was to be patience to waint until accessing at least SMD specialized iron.
 
 **Here is manufactured PCB:**
