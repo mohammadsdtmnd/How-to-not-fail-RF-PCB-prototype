@@ -1,20 +1,24 @@
 # How-to-not-fail-RF-PCB-prototype
 I've made GPS amplifier for hobby time, it failed. I've learned what I should not have done again to prevent failure. My motivation for doing this was to see the GPS signal spectrum. :)
-You can look at schematic and PCB and see these strength:
+**You can look at schematic and PCB and see these strength:**
+
 + Simple
 + High gain
 + Extremely compact design
 + 0.25mm PCB thickness chosen to decrease track and match them to RF amps small footprint which also causes them to be more stable because of less leakage
 This compact design chosen to minimize distortion in GPS RF signal.
-Weakness:
+**PCB Weakness:**
+  
 + 0.5mm pitch footprint which is small for handsoldering
 + Amplifier package does not have edge lead tail to make you certain about solder connectivity
 But other than foot print and devices package chosen, tools are extremely important:
-Tools weakness:
+**Tools weakness:**
+  
 + Bulky 60W iron used and caused catastrophy there :(
 + Use of thick solder wire
 + Lower melting point solder plus hot air could help success of assmbling but was missed
-Tools strength:
+**Tools strength:**
+  
 + Precise tweezer
 + Good lenz for zooming
 And the thing I had really missed was to be patience to waint until accessing at least SMD specialized iron.
