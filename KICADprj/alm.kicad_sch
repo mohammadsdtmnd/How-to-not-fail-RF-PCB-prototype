@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ccbf6820-b23d-4899-9fd7-0393f504f111")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 218.44 21.59)
+		(size 24.13 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "431b3444-0736-4c4c-bc05-7d8cd620c407")
+		(property "Sheetname" "amp"
+			(at 218.44 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amp_sch.kicad_sch"
+			(at 218.44 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "alm"
+				(path "/ccbf6820-b23d-4899-9fd7-0393f504f111"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.71 52.07)
+		(size 25.4 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3480f38-7eb2-48c2-9f37-89cbb9799bb9")
+		(property "Sheetname" "power"
+			(at 219.71 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_sch.kicad_sch"
+			(at 219.71 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "alm"
+				(path "/ccbf6820-b23d-4899-9fd7-0393f504f111"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
