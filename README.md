@@ -25,7 +25,8 @@ And the thing I had really missed was to be patience to waint until accessing at
 
 
 **Prepaird workbench:**
-![IMG_20250905_204330](https://github.com/user-attachments/assets/4545868d-6ec3-41d6-a11e-6ee639449148)
+![IMG_20250905_204330](https://github.com/user-attachments/assets/aa4f5fbe-a757-4a29-89ca-714252a844c0)
+
 
 
 **First try success:**
@@ -37,14 +38,18 @@ And the thing I had really missed was to be patience to waint until accessing at
 
 I had placed tip of my bulky iron beneath the IC and the resin of PCB burnd!! Though I've been dissapointed. I told OK. I will make the secound PCB with success.
 The secound PCB had inherent wrong. It missed one track in sensitive area, Under amplifier. :(
-![IMG_20250906_100344](https://github.com/user-attachments/assets/6d7473c9-5858-4d10-9cb3-789918a21652)
+![IMG_20250906_100344](https://github.com/user-attachments/assets/d7764e4c-b13e-4eae-ace6-3e4983697bfc)
 But I managed to handle it with 0.1mm Wire, Low melting solder and Hot air
-![IMG_20250906_100121](https://github.com/user-attachments/assets/b1072d5a-c1ed-46f5-84fb-72e0b9b5929a)
-![IMG_20250907_084615](https://github.com/user-attachments/assets/0375b59e-15a7-4296-a5c1-6c118d046a73)
+![IMG_20250907_084615](https://github.com/user-attachments/assets/27e2cb02-078c-4bcb-9a10-d3f575117920)
+![IMG_20250906_100121](https://github.com/user-attachments/assets/4aff40d4-5087-497a-a7c3-0953717914b2)
+
+
 
 **And the result was promising:**
-![IMG_20250907_091124](https://github.com/user-attachments/assets/2d81c0c1-ee9e-42c4-ab93-c215d217f33a)
+![IMG_20250907_091124](https://github.com/user-attachments/assets/06fdc8c7-01cb-4ff0-80ed-434fa9533dbc)
+
 Though I've assembled all amplifier with success. Then I tried to place other components with my bulky iron and wire solder. Then another tack removed and caused to one amplifier being detached.
+![IMG_20250907_230608](https://github.com/user-attachments/assets/52244024-8f82-4a0d-a5bf-35181737087a)
 
 Now next time I will be sure to use smd iron.
 Then all components should have more than 1mm pitch for handsoldering. Otherwise I should have sharp tip iron with low melting point solder if possible. Plus patience.
