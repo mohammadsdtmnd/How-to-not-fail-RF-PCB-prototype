@@ -1,5 +1,5 @@
 # How-to-not-fail-RF-PCB-prototype
-I've made GPS amplifier for hobby time, it failed. I've learned what I should not have done again to prevent failure. My motivation for doing this was to see the GPS signal spectrum. :)
+I've made GPS amplifier for hobby time, it failed. I've learned what I should not have done again to prevent failure. My motivation for doing this was to see the GPS signal spectrum. :) Note I had tried my best to minimize cost. For example by eliminating stensil and soldermask. Though still PCB is metalized with bot layer gnd. I think I could also not making it metalized. Making it stiching with thin wire, instead. Since metalizing caused my manufacturer to prolong a long time.
 
 **You can look at schematic and PCB and see these strength:**
 
